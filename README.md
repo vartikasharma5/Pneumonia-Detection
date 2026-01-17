@@ -71,8 +71,6 @@ Use transfer learning (ResNet, VGG, EfficientNet)
 
 Improve accuracy with hyperparameter tuning
 
-Deploy model using Flask or Streamlit
-
 Add multi-class classification for other lung diseases
 
 👩‍💻 Author

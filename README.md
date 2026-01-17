@@ -64,26 +64,6 @@ Achieved strong performance on validation data
 
 Model effectively distinguishes between normal and pneumonia-infected lungs
 
-(You may add exact accuracy/loss values here if available)
-
-▶️ How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/vartikasharma5/Pneumonia-Detection.git
-
-
-Navigate to the project directory:
-
-cd Pneumonia-Detection
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run the Jupyter Notebook or Python script to train/test the model.
 
 📌 Future Improvements
 
